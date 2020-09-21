@@ -1,0 +1,27 @@
+/*body{
+	position: absolute;
+}
+
+#mydiv{
+	width: 200px;
+	height: 200px;
+	background: green;
+	border-radius: 60%;
+	animation-name: a;
+	animation-duration: 6s;
+	animation-iteration-count: 8;
+	position: relative;
+}
+
+@keyframes a{
+	0%{top: 0; left: 0; background: blue; width: 200px; height: 200px;}
+	25%{top: 0; left: 1000px; background: #999; width: 200px; height: 200px;}
+	50%{top: 500px; left: 1000px; background: green; width: 300px; height: 300px;}
+	75%{top: 500px; left:0; background: red; width: 300px; height: 300px;}
+	100%{top: 0; left: 0; background: blue ; width: 200px; height: 200px;}
+
+}*/
+
+body{
+	font-family: cursive;
+}
